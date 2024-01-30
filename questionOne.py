@@ -1,4 +1,4 @@
-#I Brendan Dileo, 000879513, certify's that this work is my own effort and that I have not allowed anybody else to copy from it.
+#I BJD, Drendos, certify's that this work is my own effort and that I have not allowed anybody else to copy from it.
 
 # ----------------- Question 1  -----------------
 
