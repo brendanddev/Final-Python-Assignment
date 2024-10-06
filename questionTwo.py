@@ -1,4 +1,4 @@
-#I BJD, Drendos, certify's that this work is my own effort and that I have not allowed anybody else to copy from it.
+#@author: Brendan Dileo
 
 # ----------------- Question 2  -----------------
 
